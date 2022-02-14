@@ -1,0 +1,29 @@
+.formContainer {
+   width: 35%;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+}
+
+.formText {
+    display: block;
+    color: #53616A;
+    margin-bottom: 50px;
+    width: 90%;
+}
+
+.formText h2 {
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.textDescription {
+    opacity: 50%;
+    size: 14px
+}
+
+.submitButton {
+  display: flex;
+  justify-content: end;
+  padding-right: 30px;
+}

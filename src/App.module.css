@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.loginPage {
+  display: flex;
+  margin: 100px;
+}
+
+.mainImg {
+  margin-right: 50px;
+}
